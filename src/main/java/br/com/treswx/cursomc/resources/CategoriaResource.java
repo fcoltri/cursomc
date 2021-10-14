@@ -1,4 +1,4 @@
-package br.com.treswx.cursomc.resource;
+package br.com.treswx.cursomc.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

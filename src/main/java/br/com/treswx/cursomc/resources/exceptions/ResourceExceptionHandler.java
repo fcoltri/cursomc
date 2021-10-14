@@ -1,4 +1,4 @@
-package br.com.treswx.cursomc.resource.exceptions;
+package br.com.treswx.cursomc.resources.exceptions;
 
 import javax.servlet.http.HttpServletRequest;
 
